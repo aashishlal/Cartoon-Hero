@@ -1,0 +1,17 @@
+body {
+	background-color: lightcoral;
+}
+h1{
+font-size: 30px;
+color: salmon;
+}
+h2{
+font-size: 24px;
+color: teal;
+}
+.big {
+font-size: 60px;}
+.uc {
+text-transform: uppercase;}
+.big.uc {color: navy;}
+span{color: lightblue;}
